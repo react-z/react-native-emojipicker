@@ -6,8 +6,6 @@
 
 react-native-emojipicker is a simple emoji picker component
 
-An Emoji object is as a unicode emoji character e.g. 😀❤️⚽️
-
 ## Install
 
 `npm install react-native-emojipicker --save`
@@ -49,7 +47,7 @@ export default class extends React.Component {
 ## Props
 
 #### `onEmojiSelected` (required)
-Handler returns the emoji character selected from the emoji picker.
+Handler returns the unicode emoji character ⚽️ selected from the emoji picker.
 
 #### `visible`
 Opacity to show or hide the picker. Defaults to `true`.
