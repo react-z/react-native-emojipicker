@@ -1,0 +1,26 @@
+{
+  "name": "react-native-emojipicker",
+  "version": "1.0.0",
+  "description": "A react-native emoji picker",
+  "main": "lib/Picker.js",
+  "author": "Steven Iseki <stevenisekimartin@gmail.com>",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/StevenIseki/react-native-emojipicker.git"
+  },
+  "license": "MIT",
+  "dependencies": {
+    "styled-components": "^1.4.3"
+  },
+  "keywords": [
+    "react",
+    "react-native",
+    "react-component",
+    "emojipicker",
+    "emoji-picker",
+    "react native emoji picker",
+    "react-native-emoji-picker",
+    "react-emoji",
+    "emoji"
+  ]
+}
