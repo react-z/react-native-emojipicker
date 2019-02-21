@@ -8,7 +8,7 @@ react-native-emojipicker is a simple emoji picker component
 
 ## Install
 
-`npm install react-native-emojipicker --save`
+`yarn add react-native-emojipicker`
 
 ## Usage
 
@@ -54,6 +54,19 @@ Opacity to show or hide the picker. Defaults to `true`.
 
 ## Styles
 Uses styled-components 💅 for the base styling.
+
+## Development
+    yarn
+    npm run dev
+
+## Build
+    yarn
+    npm run build
+    npm login
+    npm version patch
+    git add -A
+    git push origin master
+    npm publish
 
 ## License
 
