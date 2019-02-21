@@ -1,4 +1,4 @@
-import Picker from '../src/Picker'
+import Picker from '../lib/Picker'
 import React, { Component } from 'react'
 import { AppRegistry, ScrollView, View, Text, TouchableOpacity } from 'react-native'
 
