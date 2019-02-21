@@ -1,6 +1,6 @@
 {
   "name": "react-native-emojipicker",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "A react-native emoji picker",
   "main": "lib/Picker.js",
   "author": "Steven Iseki <stevenisekimartin@gmail.com>",
